@@ -1,7 +1,6 @@
 # Configuración de Qtile
-<p align="center">
-  <img src="![WhatsApp Image 2025-06-19 at 8 28 38 AM](https://github.com/user-attachments/assets/ddc74680-b22a-44ea-9919-9ffdaeef43d4)" alt="Descripción de la imagen" width="600"/>
-</p>
+
+![WhatsApp Image 2025-06-19 at 8 28 38 AM](https://github.com/user-attachments/assets/c68b2991-0c65-45cb-867c-07372b4cabdd)
 
 
 Este repositorio contiene **mi configuración personalizada del gestor de ventanas Qtile**.
