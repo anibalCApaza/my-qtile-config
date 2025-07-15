@@ -1,4 +1,8 @@
 # Configuración de Qtile
+<p align="center">
+  <img src="![WhatsApp Image 2025-06-19 at 8 28 38 AM](https://github.com/user-attachments/assets/ddc74680-b22a-44ea-9919-9ffdaeef43d4)" alt="Descripción de la imagen" width="600"/>
+</p>
+
 
 Este repositorio contiene **mi configuración personalizada del gestor de ventanas Qtile**.
 Qtile es un tiling window manager (TWM) dinámico, potente y completamente configurable en Python puro.
